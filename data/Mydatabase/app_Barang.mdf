@@ -1,0 +1,26 @@
+1.akun nasbaha(Norekening, nama , pin, )
+2.akun admin(pin, nama,  rekening)
+
+====menu awal=====
+password :
+pin :
+
+menu admin
+1.daftarkan nasabah
+- nama :
+-no rekening
+- pin :
+2.edit nasabah 
+-no rekening nasabah
+-nama
+-pin :
+3.hapus nasabah
+-no rek
+
+menu nasabah
+1. cek saldo 
+2.tarik tunai 
+3.setor tunai
+4.transfer
+-no rek yang di tuju
+-jumlah transfer
